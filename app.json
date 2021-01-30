@@ -1,0 +1,12 @@
+{
+  "name": "evaluation_app",
+  "displayName": "evaluation_app",
+  "expo": {
+    "name": "evaluation_app",
+    "slug": "evaluation_app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
