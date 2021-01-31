@@ -1,0 +1,6 @@
+export const ActionType = {
+    STOP_LOADING : 'STOP_LOADING',
+    ADD_NEW_TAG : 'ADD_NEW_TAG',
+    UPDATE_TEXT : 'UPDATE_TEXT',
+    UPDATE_COUNTRY_LIST : 'UPDATE_COUNTRY_LIST'
+};
